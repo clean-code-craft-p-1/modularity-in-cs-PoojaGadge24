@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using TemperatureAnalysis.Domain;
-
-namespace TemperatureAnalysis.Analytics
+﻿namespace TemperatureAnalysis.Analytics
 {
     public class FeverDetectionService
     {
